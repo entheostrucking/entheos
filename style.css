@@ -5,7 +5,6 @@ body {
 }
 
 header {
-  background-color: #333;
   color: #fff;
   padding: 20px;
 }
@@ -34,7 +33,6 @@ nav li a:hover {
 }
 
 .services{
-  background-color: none;
   color: black;
   justify-content: center;
   align-items: center;
@@ -42,7 +40,6 @@ nav li a:hover {
 }
 
 .about{
-  background-color: none;
   padding: 10px;
   height: 200px;
   justify-content: center;
@@ -51,7 +48,6 @@ nav li a:hover {
 }
 
 .contact{
-  background-color: none;
   padding: 10px;
   justify-content: center;
   align-items: center;
