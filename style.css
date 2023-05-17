@@ -57,7 +57,7 @@ nav li a:hover {
 }
 
 .banner {
-  background-image: url("images/truck/jpg");
+  background-image: url("images/truck.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 500px;
