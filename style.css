@@ -48,6 +48,11 @@ nav li a:hover {
     padding: 10px;
 }
 
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
 .contact{
   background-color: #f1f1f1;
   padding: 10px;
@@ -57,7 +62,7 @@ nav li a:hover {
 }
 
 .banner {
-  background-image: url("https://source.unsplash.com/1600x900/?trucks");
+  background-image: url("https://unsplash.com/photos/ucuOscdCaO4");
   background-repeat: no-repeat;
   background-size: cover;
   height: 500px;
@@ -68,6 +73,7 @@ nav li a:hover {
   text-align: center;
   color: #fff;
 }
+
 
 .banner h1 {
   font-size: 50px;
