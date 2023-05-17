@@ -44,8 +44,6 @@ nav li a:hover {
 .about{
   background-color: #ddd;
   padding: 10px;
-  height: 200px;
-  justify-content: center;
   align-items: center;
   text-align: center;
 }
