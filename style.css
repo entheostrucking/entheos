@@ -34,7 +34,7 @@ nav li a:hover {
 }
 
 .services{
-  background-color: #ddd;
+  background-color: none;
   color: black;
   justify-content: center;
   align-items: center;
@@ -42,7 +42,7 @@ nav li a:hover {
 }
 
 .about{
-  background-color: #ddd;
+  background-color: none;
   padding: 10px;
   height: 200px;
   justify-content: center;
@@ -51,7 +51,7 @@ nav li a:hover {
 }
 
 .contact{
-  background-color: #f1f1f1;
+  background-color: none;
   padding: 10px;
   justify-content: center;
   align-items: center;
