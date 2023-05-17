@@ -45,6 +45,7 @@ nav li a:hover {
   background-color: #ddd;
   align-items: center;
   text-align: center;
+    padding: 10px;
 }
 
 .contact{
