@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Trucking Company</title>
+    <link rel="stylesheet" href="style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <!--<li><a href="#">Services</a></li>
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">Contact</a></li>-->
+        </ul>
+      </nav>
+    </header>
+    <section class="banner">
+      <h1>Welcome to Entheos</h1>
+      <p>Providing reliable and affordable transportation services</p>
+     <!-- <button>Learn More</button>-->
+    </section>
+    <section class="services">
+      <h2>Our Services</h2>
+      <ul>
+         <p>Freight transportation</p>
+         <p>Expedited delivery</p>
+      </ul>
+    </section>
+    <section class="about">
+      <h2>About Us</h2>
+      <p>We are a small, family-owned and operated trucking company; Our mission is to provide our customers with reliable, safe, and on-time delivery of their goods.</p>
+	  <p>Where it started</p>
+	  <img src="images/garage.jpg"  class="about" width="400" height="350" alt="Garage">
+    </section>
+    <section class="contact">
+      <h2>Contact Us</h2>
+	  <p>Success! We will get back to you soon!</p>
+      <form action="https://formsubmit.co/1c01c27cb3b014be53272c37a29ffcf0 " method="POST">
+	  <input type="hidden" name="_next" value="https://entheostrucking.github.io">
+	  
+	  <!-- Honeypot -->
+	  <input type="text" name="_honey" style="display: none;">
+	  
+	  <!-- Disable Captcha -->
+	  <input type="hidden" name="_captcha" value="false">
+	  
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="Name"><br><br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="Email"><br><br>
+        <label for="message">Message:</label>
+        <textarea id="message" name="Message"></textarea><br><br>
+        <input type="submit" value="Send">
+      </form>
+    </section>
+    <footer>
+      <p>&copy; 2023 Entheos. All rights reserved.</p>
+    </footer>
+  </body>
+</html>
