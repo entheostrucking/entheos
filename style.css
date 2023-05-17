@@ -49,8 +49,8 @@ nav li a:hover {
 }
 
 .responsive {
-  max-width: 100%;
-  height: auto;
+  width: 150;
+  height: 200;
 }
 
 .contact{
