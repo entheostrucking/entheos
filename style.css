@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 header {
@@ -34,7 +34,7 @@ nav li a:hover {
 }
 
 .services{
-  background-color: #ddd;
+background-color: white;
   color: black;
   justify-content: center;
   align-items: center;
@@ -50,7 +50,7 @@ nav li a:hover {
 }
 
 .about{
-  background-color: #ddd;
+   background-color: white;
   align-items: center;
   text-align: center;
     padding: 10px;
